@@ -10,7 +10,7 @@ https://ifeomaorika.github.io/Interactive-Rating/
 HTML, CSS and Vanilla JS
 
 **what I learned**
-I learned more anout the for loops and using the DOM.
+I learned more about for loops and using the DOM.
 
 **what I realized I need to improve on**
 My understanding of for...of loops and forEach loops. I also want to improve my understanding of event listeners. I feel like I understand it on the surface level, but when going into details and targeting specific elements within the loops is quite challenging.
